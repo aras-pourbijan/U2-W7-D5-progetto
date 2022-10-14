@@ -1,0 +1,16 @@
+{
+    "name": "u2-w7-d5-progetto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass:watch": "sass --no-source-map assets/scss/styles.scss assets/css/styles.css -w"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.2.2",
+        "bootstrap-icons": "^1.9.1"
+    }
+}
